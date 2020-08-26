@@ -5,7 +5,7 @@
 
 **SUMMARY**
 ---
->Self-motivating solver of "intractable" problems—dedicated to growth and passionate about developing well-tested software solutions to simplify the lives of others. Entrepreneurially-minded, with a voracious appetite for learning new technologies. Thrives in cross-disciplinary team settings, while proficient in working independently with a high tolerance for ambiguity. Exceptional communication and interpersonal skills, extending to relations with enterprise clients and stakeholders. Also plays a mean ping pong.
+  Self-motivating solver of "intractable" problems—dedicated to growth and passionate about developing well-tested software solutions to simplify the lives of others. Entrepreneurially-minded, with a voracious appetite for learning new technologies. Thrives in cross-disciplinary team settings, while proficient in working independently with a high tolerance for ambiguity. Exceptional communication and interpersonal skills, extending to relations with enterprise clients and stakeholders. Also plays a mean ping pong.
 
 <br>
 
@@ -41,9 +41,9 @@ approval
 </tr>
 </table>
 
-* Helped mentor and teach the basics of Angular 2+, and get the to the new co-op students up to speed with our systems
+* Helped mentor and teach the new co-op students the basics of Angular 2+ and get them up to speed with our systems
 * Focused on out-of-sprint issues and continued my work on the dynamic site content generation system
-* Served as consultant in the weekly design and sprint meetings
+* Served as a front-end consultant in the weekly design and sprint meetings
 
 <br>
 
@@ -65,7 +65,7 @@ approval
 
 * Developped our public and private serverless APIs using AWS services (Gateway, Lambda, S3, DynamoDB, Cognito) to able to interact with our web and mobile applications, and handle real-time updates coming from our IOT devices running AWS Greengrass Core
 * Developped the Parkmetriks Administrator application using ReactJS, Material design, and implemented virutally all of the Google Maps API products to allow businesses to manage and centralize all of their real-time parking data, and deployed the production ready version using AWS amplify to publish and manage user pools and authentication
-* Developped the cross-platform capable Parkmetriks mobile applicaiton using React-Native, Material design and Google Maps API to search places, view parking availability, and be directed to the best available parking, and published the mobile application using Expo.
+* Developped the cross-platform capable Parkmetriks mobile applicaiton using React-Native, Material design, and Google Maps API to search places, view parking availability, get directions to the best available parking, and published the application using Expo
 * Developped the inital Parkmetriks mobile application prototype in Swift for iOS devices
 
 <table style="width: 100%; border: none !important;">
@@ -79,7 +79,7 @@ approval
 </tr>
 </table>
 
->Chosen by my group members, I served as the project manager for a semester long project on a team of 6 developers to create [MindSafe](https://www.youtube.com/watch?v=TXwzay5DQRA "Alzheimer’s progression tracking and management application"), a Alzheimer’s progression tracking and management application for iOS.
+>I served as the project manager for a semester long project on a team of 6 developers to create [MindSafe](https://www.youtube.com/watch?v=TXwzay5DQRA "Alzheimer’s progression tracking and management application"), a Alzheimer’s progression tracking and management application for iOS.
 
 * Led our semi-weekly development meetings, created and assigned sprint tasks to each group member and ensured all project documentation was in order
 * Spent over 120 hours developing our mobile application in Swift and managing our codebase
