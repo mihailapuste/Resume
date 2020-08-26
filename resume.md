@@ -61,7 +61,7 @@ approval
 </tr>
 </table>
 
->My Capstone engineering project team designed and developped [Parkmetriks](https://vimeo.com/451231244 "Parkmetriks Smart City Parking Availability Detection System"), a real-time, image-based, parking availability detection system that aims to solve the problem of finding parking in open-air parking lots.
+My Capstone engineering project team designed and developped [Parkmetriks](https://vimeo.com/451231244 "Parkmetriks Smart City Parking Availability Detection System"), a real-time, image-based, parking availability detection system that aims to solve the problem of finding parking in open-air parking lots.
 
 * Developped our public and private serverless APIs using AWS services (Gateway, Lambda, S3, DynamoDB, Cognito) to able to interact with our web and mobile applications, and handle real-time updates coming from our IOT devices running AWS Greengrass Core
 * Developped the Parkmetriks Administrator application using ReactJS, Material design, and implemented virutally all of the Google Maps API products to allow businesses to manage and centralize all of their real-time parking data, and deployed the production ready version using AWS amplify to publish and manage user pools and authentication
@@ -79,7 +79,7 @@ approval
 </tr>
 </table>
 
->I served as the project manager for a semester long project on a team of 6 developers to create [MindSafe](https://www.youtube.com/watch?v=TXwzay5DQRA "Alzheimer’s progression tracking and management application"), a Alzheimer’s progression tracking and management application for iOS.
+I served as the project manager for a semester long project on a team of 6 developers to create [MindSafe](https://www.youtube.com/watch?v=TXwzay5DQRA "Alzheimer’s progression tracking and management application"), a Alzheimer’s progression tracking and management application for iOS.
 
 * Led our semi-weekly development meetings, created and assigned sprint tasks to each group member and ensured all project documentation was in order
 * Spent over 120 hours developing our mobile application in Swift and managing our codebase
@@ -96,7 +96,7 @@ approval
 </tr>
 </table>
 
->The Skedge booking application was a semester-long fullstack project. Skedge allowed businesses to manage a business calendar and services which were then bookable through a customer interface.
+The Skedge booking application was a semester-long fullstack project. Skedge allowed businesses to manage a business calendar and services which were then bookable through a customer interface.
 
 * The application was a fullstack Django application which utilized the Django REST framework, Postgres, Vue.js, Boostrap and the production version was dockerized for deployment
 
@@ -166,7 +166,7 @@ full course load
 </tr>
 </table>
 
-> Organizing sandwich drives for the homeless in downtown east side Vancouver, and planning youth group outing events such as picnics, board game nights, winter tubing, etc.
+ Organizing sandwich drives for the homeless in downtown east side Vancouver, and planning youth group outing events such as picnics, board game nights, winter tubing, etc.
 
 
 <table style="width: 100%; border: none !important;">
@@ -180,7 +180,7 @@ full course load
 </tr>
 </table>
 
-> I led my group through all the individual drills, coached throwing mechanics, game management, read progression and quarterbacking fundamentals. I Mentored and coached quarterbacks during live scrimmage sessions, giving insightful pointers and helping them with the phycological aspect of the game.
+I led my group through all the individual drills, coached throwing mechanics, game management, read progression and quarterbacking fundamentals. I Mentored and coached quarterbacks during live scrimmage sessions, giving insightful pointers and helping them with the phycological aspect of the game.
 
 <table style="width: 100%; border: none !important;">
 <tr>
@@ -193,4 +193,4 @@ full course load
 </tr>
 </table>
 
-> Helping mentor and coach quarterbacks as young as 7 years old with their throwing mechanics and decision making.
+Helping mentor and coach quarterbacks as young as 7 years old with their throwing mechanics and decision making.
